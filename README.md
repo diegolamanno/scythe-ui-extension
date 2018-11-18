@@ -1,12 +1,14 @@
-# ti4.nyc-ui-extension
-Contentful UI Extension for tracking games of Twilight Imperium Fourth edition (ti4) played for the ti4.nyc website.
+_This is a fork of [Shy](https://github.com/Shy)'s work for [ti4.nyc-ui.extension](https://github.com/Shy/ti4.nyc-ui-extension)_
+
+# scythe-ui-extension
+
+Contentful UI Extension for tracking games of Sycthe (includes _Invaders From Afar_ factions).
 
 ![TI4 UI-extension in the Contentful interface](./screenshot.png)
 
 ## How it Works
 
-This UI extension creates a form that'll collect names, factions and scores for 6 players. It'll prepopulate the faction dropdown with all the of the races from the game. Contentful will store the results of that field as a [JSON type](https://www.contentful.com/developers/docs/concepts/data-model/).
-
+This UI extension creates a form that'll collect names, factions and scores for 7 players. It'll prepopulate the faction dropdown with all the of the races from the game. Contentful will store the results of that field as a [JSON type](https://www.contentful.com/developers/docs/concepts/data-model/).
 
 ## Description
 
