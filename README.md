@@ -16,6 +16,6 @@ You can install this extension into your Contentful space via the [Contentful Co
 
 ## How to enable the extension
 
-To enable the extension go to a content type of your choice and add a new field of type `JSON`. In the appearance panel you can then find the `Twilight Imperium 4th Edition Match Log`.
+To enable the extension go to a content type of your choice and add a new field of type `JSON`. In the appearance panel you can then find the `Scythe Match Log`.
 
 ![The appearance panel of a field in a content type](./images/appearance.png)
